@@ -1,0 +1,3 @@
+pandas>=1.5
+polars>=0.20
+jupyter
