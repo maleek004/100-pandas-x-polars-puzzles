@@ -6,9 +6,8 @@ Will help to understand **how similar problems are approached in both libraries*
 
 ## What you’ll find
 
-- 🧩 A single Jupyter notebook with incremental puzzles  
-- 🐼 Pandas solutions  
-- 🐻‍❄️ Polars solutions  
+-  The [puzzles notebook](100-pandas-puzzles.ipynb) with incremental pandas x polars puzzles  
+-  The [puzzles solutions notebook ](100-pandas-puzzles-solutions.ipynb)  
 
 Most puzzles are intentionally short and solvable in a few lines.
 
