@@ -6,8 +6,8 @@ Will help to understand **how similar problems are approached in both libraries*
 
 ## What you’ll find
 
--  The [puzzles notebook](100-pandas-puzzles.ipynb) with incremental pandas x polars puzzles  
--  The [puzzles solutions notebook ](100-pandas-puzzles-solutions.ipynb)  
+-  The [puzzles notebook](notebooks/100-pandasXpolars-puzzles.ipynb) with incremental pandas x polars puzzles  
+-  The [puzzles solutions notebook ](notebooks/100-pandasXpolars-puzzles-solutions.ipynb)  
 
 Most puzzles are intentionally short and solvable in a few lines.
 
