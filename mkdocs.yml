@@ -1,0 +1,20 @@
+site_name: 100 Pandas x Polars Puzzles
+
+nav:
+
+Home: index.md
+
+Getting Started:
+
+Overview: getting-started/overview.md
+
+Installing Polars: getting-started/installing-polars.md
+
+Puzzles:
+
+Puzzle 1: puzzles/puzzle-01.md
+
+Puzzle 2: puzzles/puzzle-02.md
+
+
+About: about.md
