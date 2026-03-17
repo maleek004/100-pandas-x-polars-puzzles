@@ -2,7 +2,7 @@ import nbformat
 import os
 import re
 
-NOTEBOOK_PATH = "notebooks/100-pandas-puzzles-solutions.ipynb"
+NOTEBOOK_PATH = "notebooks/100-pandasXpolars-puzzles-solutions.ipynb"
 OUTPUT_DIR = "docs/puzzles"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -56,7 +56,7 @@ for puzzle in puzzles:
 
     with open(path, "w", encoding="utf-8") as f:
 
-        f.write(f"# Puzzle {number}\n\n")
+        ##f.write(f"# Puzzle {number}\n\n")
 
         for cell in puzzle["cells"]:
 
