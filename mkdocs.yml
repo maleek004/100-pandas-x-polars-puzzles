@@ -1,20 +1,69 @@
 site_name: 100 Pandas x Polars Puzzles
+site_description: 100 data manipulation puzzles solved side-by-side in Pandas and Polars
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+  palette:
+    primary: indigo
+    accent: deep purple
 
 nav:
-
-Home: index.md
-
-Getting Started:
-
-Overview: getting-started/overview.md
-
-Installing Polars: getting-started/installing-polars.md
-
-Puzzles:
-
-Puzzle 1: puzzles/puzzle-01.md
-
-Puzzle 2: puzzles/puzzle-02.md
-
-
-About: about.md
+  - Home: index.md
+  - Getting Started:
+    - Overview: getting-started/overview.md
+    - Installing Polars: getting-started/installing-polars.md
+  - Puzzles:
+    - Puzzle 1: puzzles/puzzle-01.md
+    - Puzzle 2: puzzles/puzzle-02.md
+    - Puzzle 3: puzzles/puzzle-03.md
+    - Puzzle 4: puzzles/puzzle-04.md
+    - Puzzle 5: puzzles/puzzle-05.md
+    - Puzzle 6: puzzles/puzzle-06.md
+    - Puzzle 7: puzzles/puzzle-07.md
+    - Puzzle 8: puzzles/puzzle-08.md
+    - Puzzle 9: puzzles/puzzle-09.md
+    - Puzzle 10: puzzles/puzzle-10.md
+    - Puzzle 11: puzzles/puzzle-11.md
+    - Puzzle 12: puzzles/puzzle-12.md
+    - Puzzle 13: puzzles/puzzle-13.md
+    - Puzzle 14: puzzles/puzzle-14.md
+    - Puzzle 15: puzzles/puzzle-15.md
+    - Puzzle 16: puzzles/puzzle-16.md
+    - Puzzle 17: puzzles/puzzle-17.md
+    - Puzzle 18: puzzles/puzzle-18.md
+    - Puzzle 19: puzzles/puzzle-19.md
+    - Puzzle 20: puzzles/puzzle-20.md
+    - Puzzle 21: puzzles/puzzle-21.md
+    - Puzzle 22: puzzles/puzzle-22.md
+    - Puzzle 23: puzzles/puzzle-23.md
+    - Puzzle 24: puzzles/puzzle-24.md
+    - Puzzle 25: puzzles/puzzle-25.md
+    - Puzzle 26: puzzles/puzzle-26.md
+    - Puzzle 27: puzzles/puzzle-27.md
+    - Puzzle 28: puzzles/puzzle-28.md
+    - Puzzle 29: puzzles/puzzle-29.md
+    - Puzzle 30: puzzles/puzzle-30.md
+    - Puzzle 31: puzzles/puzzle-31.md
+    - Puzzle 32: puzzles/puzzle-32.md
+    - Puzzle 33: puzzles/puzzle-33.md
+    - Puzzle 34: puzzles/puzzle-34.md
+    - Puzzle 35: puzzles/puzzle-35.md
+    - Puzzle 36: puzzles/puzzle-36.md
+    - Puzzle 37: puzzles/puzzle-37.md
+    - Puzzle 38: puzzles/puzzle-38.md
+    - Puzzle 39: puzzles/puzzle-39.md
+    - Puzzle 40: puzzles/puzzle-40.md
+    - Puzzle 41: puzzles/puzzle-41.md
+    - Puzzle 42: puzzles/puzzle-42.md
+    - Puzzle 43: puzzles/puzzle-43.md
+  - Concepts:
+    - Immutability: concepts/immutability.md
+    - Row Indices: concepts/row-indices.md
+    - Lists and Structs: concepts/list-and-structs.md
+  - Cheat Sheets:
+    - DataFrame Basics: cheat-sheet/dataframe-basics.md
+    - Data Manipulation: cheat-sheet/data-manipulation.md
+  - About: about.md
