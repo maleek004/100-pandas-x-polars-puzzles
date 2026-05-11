@@ -15,7 +15,7 @@ Most puzzles are intentionally short and solvable in a few lines.
 
 - People comfortable with Pandas who want to **learn Polars**
 - Data folks curious about **performance-oriented dataframe libraries**
-- Anyone who learns best by **solving small, focused problems**
+- Anyone who learns best by **solving small, focused problems** ...
 
 ## Getting started
 
